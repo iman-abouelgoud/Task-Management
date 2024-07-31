@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Task Management Application
 
 A web-based task management solution built with Laravel, featuring project organization and dynamic task prioritization.
@@ -59,20 +58,3 @@ The seeder creates:
 
 2. Access the application at: `http://localhost:8000`
 
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
-## Support
-
-For support, please email support@taskmanagement.com or open an issue in the GitHub repository.
-   
-=======
-# Task-Management
-Simple Laravel web application for task management
->>>>>>> origin/main
