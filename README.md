@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Management Application
 
 A web-based task management solution built with Laravel, featuring project organization and dynamic task prioritization.
@@ -71,3 +72,7 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 For support, please email support@taskmanagement.com or open an issue in the GitHub repository.
    
+=======
+# Task-Management
+Simple Laravel web application for task management
+>>>>>>> origin/main
